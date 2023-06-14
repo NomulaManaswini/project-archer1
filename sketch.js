@@ -9,9 +9,9 @@ var palyer, rock;
 var rockimage;
 
 function preload() {
-  backgroundImg = loadImage("./assets/background.png");
-  rockimage = loadImage("./assets/base.png");
-  playerimage = loadImage("./assets/player.png");
+  backgroundImg = loadImage("background.png");
+  rockimage = loadImage("base.png");
+  playerimage = loadImage("player.png");
 }
 
 function setup() {
